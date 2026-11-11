@@ -1,10 +1,10 @@
 # Dais-Pamplona_CafeSystem
 Dais&amp;Pamplona_CafeSystem
 
-ITS-202 Object-Oriented-Programing
+*ITS-202 Object-Oriented-Programing
 
-Section: C
+*Section: C
 
-Submitted by:
+*Submitted by:
 *Pamplona,Romeo E.
 *Dais,Adrian R.
